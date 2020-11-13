@@ -17,9 +17,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
-</p>
+![happy](https://user-images.githubusercontent.com/48895781/99108283-e377db00-25c5-11eb-81cc-116504fcb548.png)
 
 ## 🚀 Tecnologias
 
